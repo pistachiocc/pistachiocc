@@ -4,6 +4,9 @@
 [Codeforces](https://codeforces.com/profile/floss) · 
 [LeetCode](https://leetcode.com/floss_/)
 
+### Now listening
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001983.a2bd676da4cb417eab90f69d05da0b0f.0259)](https://music-profile.rayriffy.com)
+
 <!--
 **pistachiocc/pistachiocc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
