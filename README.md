@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pistachiocc&show_icons=true&theme=transparent&hide_rank=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pistachiocc&layout=compact&theme=transparent" />
-</p>
-
+[AtCoder](https://atcoder.jp/users/floss) · 
+[Codeforces](https://codeforces.com/profile/floss) · 
+[LeetCode](https://leetcode.com/floss_/)
 
 <!--
 **pistachiocc/pistachiocc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
