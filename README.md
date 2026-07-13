@@ -4,7 +4,17 @@
 [Codeforces](https://codeforces.com/profile/floss) · 
 [LeetCode](https://leetcode.com/floss_/)
 
-### Now listening
+## Languages
+
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=pistachiocc&layout=compact&theme=transparent&hide=html,css"
+    alt="Top Languages"
+    height="160"
+  />
+</a>
+
+## Recently played
 
 <a href="https://music-profile.rayriffy.com">
   <img
